@@ -1,5 +1,7 @@
 # Super-Crack
-'''
+          
+# command
+```
 pkg update
 pkg upgrade
 pkg install python
@@ -14,4 +16,5 @@ Username:In Telegram Channel
 pass: In Telegram Chanell
 
 Telegram Channel:https://t.me/kurdhacker_hama_bn_dlaj
-'''
+
+```
