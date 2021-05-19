@@ -15,6 +15,8 @@ python2 Super_Crack.py
 Username:In Telegram Channel
 pass: In Telegram Chanell
 
-Telegram Channel:https://t.me/kurdhacker_hama_bn_dlaj
+
 
 ```
+
+# Telegram Channel:https://t.me/kurdhacker_hama_bn_dlaj
